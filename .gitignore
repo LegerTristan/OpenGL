@@ -1,0 +1,14 @@
+.vs/
+x64/
+*.tlog
+*.lastbuildstate
+*.obj
+*.exe
+*.ipdb
+*.log
+*.pdb
+*.iobj
+*.exe.recipe
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
